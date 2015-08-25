@@ -1,11 +1,9 @@
 # Hexo Configuration
-## Docs: http://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
 
 # Site
 title: Liekkas's Blog
 subtitle: A new day has come
-description:
+description: This is liekkas's blog
 author: Liekkas
 language:
 timezone:
