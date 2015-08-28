@@ -66,4 +66,6 @@ theme: default
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: https://github.com/liekkas3175/liekkas3175.github.io.git
+  branch: master
