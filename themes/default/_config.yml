@@ -2,16 +2,16 @@
 menu:
   主页: /
   所有文章: /archives
-  # 随笔: /tags/随笔
+  五味杂陈: /tags/五味杂陈
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/liekkas3175"
+  weibo: "http://www.weibo.com/u/2025364415"
+  #rss: "#"
+  zhihu: "http://www.zhihu.com/people/liekkas3175"
   #douban: "#"
-  #mail: "#"
+  mail: "liekkas3175@hotmail.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
