@@ -11,9 +11,11 @@ $ git remote add hexo https://github.com/liekkas3175/blog.git
 $ git push -u hexo master
 ```
 
-### push an existing repository from the command line
+### push an existing repository
 
 ``` bash
 $ git remote add hexo https://github.com/liekkas3175/blog.git
 $ git push -u hexo master
+
+
 ```
