@@ -1,6 +1,6 @@
 title: hexo搭建
 date: 2015-08-31 20:51:53
-tags: 技术点滴
+tags: technology
 ---
 
 hexo是一款基于Node.js的静态博客框架。

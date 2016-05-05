@@ -17,5 +17,8 @@ $ git push -u hexo master
 $ git remote add hexo https://github.com/liekkas3175/blog.git
 $ git push -u hexo master
 
+$ npm install hexo
+$ npm install
+$ npm install hexo-deployer-git
 
 ```

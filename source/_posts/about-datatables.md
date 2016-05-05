@@ -1,6 +1,6 @@
 title: 关于DataTables的使用
 date: 2015-12-23 20:34:36
-tags: 技术点滴
+tags: technology
 ---
 
 DataTables是一个jQuery的表格插件。这是一个高度灵活的工具，依据的基础逐步增强，这将增加先进的互动控制，支持任何HTML表格。
